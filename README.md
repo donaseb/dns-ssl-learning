@@ -18,9 +18,9 @@ This repository documents a hands-on learning journey for domain management, DNS
 
 dns-ssl-learning/
 │
-├─ README.md                 # This file
-├─ 01_domain_hostedzone.md   # Domain purchase and Route 53 setup
-├─ 02_ec2_demo_app.md        # Launching demo app on EC2
-├─ 03_create_dns_record.md   # Creating A/CNAME records for subdomains
-└─ 04_ssl_setup.md           # SSL setup for subdomains
+├─ README.md                 # This file  
+├─ 01_domain_hostedzone.md   # Domain purchase and Route 53 setup  
+├─ 02_ec2_demo_app.md        # Launching demo app on EC2  
+├─ 03_create_dns_record.md   # Creating A/CNAME records for subdomains  
+└─ 04_ssl_setup.md           # SSL setup for subdomains  
 

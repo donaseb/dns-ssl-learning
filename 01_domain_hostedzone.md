@@ -20,3 +20,6 @@
 
 5. **Result**  
    - Domain `donjo.space` is now pointing to AWS Route 53 for DNS management.
+<img width="1037" height="565" alt="image" src="https://github.com/user-attachments/assets/a872b412-36de-453a-b3c1-00884454095c" />
+<img width="905" height="432" alt="image" src="https://github.com/user-attachments/assets/58c12953-f4e5-44de-ac58-ec3ad68fdf51" />
+

@@ -87,6 +87,7 @@ sudo chmod 644 /var/www/html/index.html
 ### 6. Test the Page
 
 * Visit in browser: `http://<EC2_PUBLIC_IP>` 
+- <img width="1824" height="731" alt="image" src="https://github.com/user-attachments/assets/077a627b-4865-4bb9-be17-836ba6fc2fb2" />
 
 
 

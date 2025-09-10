@@ -14,11 +14,12 @@ Run the following command to obtain an SSL certificate:
 ``` bash
 sudo certbot --apache
 ```
-<img width="865" height="260" alt="image" src="https://github.com/user-attachments/assets/cc1dbefe-c663-4f73-b450-de9e583783d8" />
-<img width="1028" height="188" alt="image" src="https://github.com/user-attachments/assets/9dc8676b-86e8-49e5-8b79-f5f0d74dc685" />
-<img width="1205" height="433" alt="image" src="https://github.com/user-attachments/assets/39a5726f-1450-472f-9e18-1d273c1eba38" />
-<img width="1205" height="433" alt="image" src="https://github.com/user-attachments/assets/5bc25ac3-dbc9-4352-80bb-aa8065d0f9d8" />
+<img width="865" height="260" alt="image" src="https://github.com/user-attachments/assets/cc1dbefe-c663-4f73-b450-de9e583783d8" />  
+<img width="1028" height="188" alt="image" src="https://github.com/user-attachments/assets/9dc8676b-86e8-49e5-8b79-f5f0d74dc685" />  
+<img width="1205" height="433" alt="image" src="https://github.com/user-attachments/assets/39a5726f-1450-472f-9e18-1d273c1eba38" />  
+<img width="1205" height="433" alt="image" src="https://github.com/user-attachments/assets/5bc25ac3-dbc9-4352-80bb-aa8065d0f9d8" />  
 
+### Step 4 :Restart:
 ``` bash
 sudo service apache2 restart
 ```

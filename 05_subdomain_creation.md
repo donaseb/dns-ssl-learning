@@ -27,15 +27,24 @@ This is called **delegation**.
    - **Domain name**: `dev.donjo.space`
    - **Type**: Public hosted zone
 4. Note down the **NS (Name Server) records** that AWS provides for this zone.
+<img width="1214" height="720" alt="image" src="https://github.com/user-attachments/assets/57531a23-6f15-46f2-8234-30ba42578e1f" />
 
 ---
 ### Step 2: Add NS Records in Parent Zone
 1. Go back to your **root hosted zone** (`donjo.space`).
-2. Click **Create record**.
-3. Add:
+2. <img width="1080" height="406" alt="image" src="https://github.com/user-attachments/assets/927a79e9-5f4f-4006-a1e6-fe5c5e3a63be" />
+2 Click **Create record**.
+4. Add:
    - **Record name**: `dev`
    - **Record type**: `NS`
    - **Value**: Paste the NS values from the `dev.donjo.space` hosted zone.
+
+<img width="1081" height="747" alt="image" src="https://github.com/user-attachments/assets/e1307564-6baa-414c-8859-c88095e86b9b" />
+<img width="1075" height="766" alt="image" src="https://github.com/user-attachments/assets/763aae72-6c85-4aa1-8705-76cbe66d8128" />
+<img width="819" height="500" alt="image" src="https://github.com/user-attachments/assets/cf311ca9-915c-44ad-bf1e-90b3b6fddf34" />
+
+
+
 
 ✅ Now, all DNS queries for `dev.donjo.space` will be handled by the new hosted zone.
 
